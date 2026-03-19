@@ -1,5 +1,527 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[título: \"Responsabilidad Mediata\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Título"
+        }
+      ],
+      "uuid": "b63d1cff-f4bd-469d-8d8e-f7325f2c4b75"
+    },
+    {
+      "start_time": 7,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ha probado en esta audiencia, y de ello nos hemos ocupado extensamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lenguaje emotivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "67a55c0b-69be-4f28-adc8-4b056557da00"
+    },
+    {
+      "start_time": 15,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en pasajes anteriores de este alegato,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lenguaje emotivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Primer plano—De perfil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Videla, Jorge Rafael, 1925-2013"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "453d13d0-a8e5-4d5e-888e-6e209b79abea"
+    },
+    {
+      "start_time": 18,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la realización de múltiples actos ilícitos que a su vez encuadran en diversas figuras del Código Penal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lenguaje emotivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fumar—Inhalar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "b4077c89-9981-4706-a45d-e0f01994c744"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pausa—Corta"
+        }
+      ],
+      "uuid": "5943c620-35a3-4aa5-8839-bbb3c1db4868"
+    },
+    {
+      "start_time": 30,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antes de entrar al análisis de la intervención de los procesados en estos actos, conviene establecer cuál es la responsabilidad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tocar—Mejilla"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Manipular—Papel"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "e89ccba5-e964-4736-8f60-3b268226c5eb"
+    },
+    {
+      "start_time": 40,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que cabe a aquellos que asumen una participación cuya particular característica consiste en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesto—Hacer un círculo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "a17e8ec3-d43e-4a55-a355-084b926af5d7"
+    },
+    {
+      "start_time": 48,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no se registra su presencia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Primer plano—Desde atrás"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Videla, Jorge Rafael, 1925-2013"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "3f1ed868-3085-4c4f-a88f-57e2675b8ced"
+    },
+    {
+      "start_time": 52,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en el lugar y en el momento en que las actividades ilícitas se desarrollaron;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zoom out—Desde atrás"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "b15a5687-7479-4233-ab05-b0568f8c4dc7"
+    },
+    {
+      "start_time": 58,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y cuya actividad radica en haber dado las órdenes generales a partir de las cuales el conjunto de delitos aquí presentados se cometió."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lenguaje emotivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zoom out—Desde atrás"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Desde atrás"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cámara Nacional de Apelaciones"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "1f2cd170-4144-4930-a178-98338261dcf7"
+    },
+    {
+      "start_time": 68,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Declaración del problema jurídico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zoom out—Desde atrás"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plano general—Desde atrás"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acusados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cámara Nacional de Apelaciones"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pausa—Larga"
+        }
+      ],
+      "uuid": "ce8e20c3-2aba-4b59-9135-83c3761f1772"
+    },
+    {
+      "start_time": 74,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esas órdenes, a cuyo contenido más adelante me referiré, dadas desde la cabeza del aparato estatal, significaron la asignación de una parte importante de este,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Delitos cometidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Repetición"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lenguaje emotivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Primer plano—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tocar—Mejilla"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesto—Señalar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "4446cab5-2b8f-4334-9550-e4cc3f6671be"
+    },
+    {
+      "start_time": 90,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "provista de elementos materiales de toda clase, a la realización de una cantidad de actividades comprensivas de muchos y graves delitos descritos en el Código Penal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Delitos cometidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lenguaje emotivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Primer plano—Frontal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera, Julio César"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tocar—Mejilla"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesto—Señalar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tempo—Cuidadoso"
+        }
+      ],
+      "uuid": "df044786-bcfc-49a5-ad63-404356a864d6"
+    }
+  ],
   "set": "Default",
   "event_id": "cff281e0-2cf2-40b5-a29f-62563aa70eb9",
   "source_id": "7f3ad749-8461-48b4-aa11-b3fdd4969297"
