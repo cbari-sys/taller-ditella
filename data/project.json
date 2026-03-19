@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "cbari-sys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269422597?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "cbari-sys",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:53.123Z",
-    "updated_at": "2026-03-19T21:28:53.123Z"
-  }
+    "updated_at": "2026-03-19T21:28:53.123Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "3862e49a-3cc8-4ac6-862b-3dde9a78e60f": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:53.147Z",
+      "created_by": "cbari-sys",
+      "title": "Taller Di Tella",
+      "updated_at": "2026-03-19T21:28:53.147Z",
+      "updated_by": "cbari-sys",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "3862e49a-3cc8-4ac6-862b-3dde9a78e60f"
+  ]
 }
